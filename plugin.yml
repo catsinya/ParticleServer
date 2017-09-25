@@ -1,0 +1,7 @@
+name: ParticleServer
+main: Particle\Main
+version: 1
+api: [1.0.0]
+load: POSTWORLD
+author: synya
+description: ParticleServer
